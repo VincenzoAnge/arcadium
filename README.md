@@ -20,6 +20,22 @@
 
 ---
 
+## Fork di Vincenzo Angellotti
+
+Questo è un fork del repository del team ACE5, [imadelmir/arcadium](https://github.com/imadelmir/arcadium). Arcadium è il laboratorio di gruppo d'esame di fine anno ITS, sviluppato da cinque persone.
+
+**Il mio contributo**
+
+- Ambiente Docker Compose, che fa partire database, backend e frontend
+- Database PostgreSQL e script Python che lo riempie
+- Parte del backend Spring Boot, con il supporto di un assistente AI
+
+I miei commit: [elenco nel repository originale](https://github.com/imadelmir/arcadium/commits?author=VincenzoAnge).
+
+> Il resto di questo README è quello originale, scritto da Imad El Mir: le parti in prima persona ("il mio ruolo", "il mio contributo") si riferiscono al suo lavoro.
+
+---
+
 ## In breve
 
 | | |
