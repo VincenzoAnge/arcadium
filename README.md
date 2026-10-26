@@ -26,9 +26,12 @@ Questo è un fork del repository del team ACE5, [imadelmir/arcadium](https://git
 
 **Il mio contributo**
 
-- Ambiente Docker Compose, che fa partire database, backend e frontend
-- Database PostgreSQL e script Python che lo riempie
-- Parte del backend Spring Boot, con il supporto di un assistente AI
+- Progettazione del modello dei dati e del diagramma ER
+- Schema PostgreSQL con indici e migrazioni Flyway
+- Ambiente Docker Compose e ambiente demo in container
+- Script Python che riempie il database, scritto insieme a un compagno del team
+- Endpoint del backend Spring Boot (wishlist, dettaglio del gioco, recupero password), con il supporto di un assistente AI
+- Correzioni e miglioramenti al frontend: filtri del negozio, traduzioni, layout da telefono
 
 I miei commit: [elenco nel repository originale](https://github.com/imadelmir/arcadium/commits?author=VincenzoAnge).
 
